@@ -4,7 +4,7 @@
 - 本科/计算机科学与技术
 - 工作年限：8年
 - 联系电话: 15528363539
-- 电子邮箱: [QQ邮箱](673636090@qq.com)  [Sina邮箱](lovexx1011@sina.com)
+- 电子邮箱: [673636090@qq.com](mailto:673636090@qq.com)、[lovexx1011@sina.com](mailto:lovexx1011@sina.com)
 - GitHub: [https://github.com/taijuan](https://github.com/taijuan)
 - 期望职位：Android高级工程师、IOS工程师(Swift)
 - 期望薪资：20K(RMB)税前
