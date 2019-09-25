@@ -1,16 +1,21 @@
-# 郑泰捐
+## 个人信息
 
-## 移动开发工程师
-
+- 郑泰捐/男/1988
+- 本科/计算机科学与技术
+- 工作年限：8年
 - 联系电话: 15528363539
-- 电子邮箱: [673636090@qq.com](673636090@qq.com)
+- 电子邮箱: [QQ邮箱](673636090@qq.com)  [Sina邮箱](lovexx1011@sina.com)
 - GitHub: [https://github.com/taijuan](https://github.com/taijuan)
+- 期望职位：Android高级工程师、IOS工程师(Swift)
+- 期望薪资：20K(RMB)税前
+- 期望城市：成都
+
 
 
 ## 自我描述
 
-* 移动端研发，熟悉Android，Ios双端原生开发，熟悉Flutter多平台开发；
-* 熟悉Java、Kotlin、Flutter、Swift编程语言；
+* 移动端研发，熟悉Android，IOS双端原生开发，熟悉Flutter多平台开发、自学微信小程序；
+* 熟悉Java、Kotlin、Flutter、Dart、Swift编程语言；
 * 拥抱开源、分享开源，Git宅；
 * 爱学习、爱研究，Flutter学习项目：[ImagePicker-Flutter](https://github.com/taijuan/image_picker_flutter.git)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)
 
@@ -25,7 +30,7 @@
 * 负责[VDOEnglish(android)](https://fir.im/VDOGame)研发，主要功能：登录注册、国内外社会分享与登录、英语单词小游戏、视频播放、字幕翻译、练习测试、视频下载管理、无障碍功能开发；
 * 负责[HKNews(android和ios)](https://fir.im/ChinaDailyNews)开发，主要功能：新闻栏目管理、新闻查看、媒体视频播放、EPaper报刊预览、国内外社会化分享、GoogleCast、无障碍功能开发；
 * 负责android项目基础框架、提升开发效率，主要工具：ShareSDK、[PermissionSDK](https://github.com/taijuan/AndroidKit)、[Retrofit-LiveData封装](https://github.com/taijuan/AndroidKit)、标题栏适配(一体化、刘海等)、[LogUtils](https://github.com/taijuan/AndroidKit)、[UUID](https://github.com/taijuan/AndroidKit)、极光推送封装、BaseActivity、BaseFragment、BaseApplication、ActivityManager、LazyFragment、Glide封装；
-* 开源多个平台KHKNews，[HKNewsAndroidApp](https://github.com/taijuan/HKNewsAndroidApp.git)、[SwiftHKNews](https://github.com/taijuan/SwiftHKNews.git)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)、[HKNewsWXApp](https://github.com/taijuan/HKNewsWXApp.gitt)
+* 开源多个平台HKNews，[HKNewsAndroidApp](https://github.com/taijuan/HKNewsAndroidApp.git)、[SwiftHKNews](https://github.com/taijuan/SwiftHKNews.git)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)、[HKNewsWXApp](https://github.com/taijuan/HKNewsWXApp.gitt)
 * 负责公司阿里云相关业务研究，比如：OSS、HttpDns、推流SDK、播放器、短视频等
 
 
