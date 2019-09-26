@@ -83,30 +83,39 @@
 - android学习
 
 ### 常用开源框架
-#### Android
-- [Lifecycles+LiveData+ViewModel+MVVM](https://developer.android.google.cn/jetpack)
-- [Okhttp](https://github.com/square/okhttp.git)
-- [Retrofit](https://github.com/square/retrofit)
-- [Fastjson](https://github.com/alibaba/fastjson.git)
-- [Gson](https://github.com/google/gson)
-- [LitePal](https://github.com/LitePalFramework/LitePal.git)
-- [Glide](https://github.com/bumptech/glide)
-- [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer.git)
-- [ExoPlayer](https://github.com/google/ExoPlayer.git)
-- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout.git)
-- [QMUI-Android](https://github.com/Tencent/QMUI_Android.git)
-- [XPopup](https://github.com/li-xiaojun/XPopup.git)
+- #### Android
+  - [Lifecycles+LiveData+ViewModel+MVVM](https://developer.android.google.cn/jetpack)
+  - [Okhttp](https://github.com/square/okhttp.git)
+  - [Retrofit](https://github.com/square/retrofit)
+  - [Fastjson](https://github.com/alibaba/fastjson.git)
+  - [Gson](https://github.com/google/gson)
+  - [LitePal](https://github.com/LitePalFramework/LitePal.git)
+  - [Glide](https://github.com/bumptech/glide)
+  - [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer.git)
+  - [ExoPlayer](https://github.com/google/ExoPlayer.git)
+  - [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout.git)
+  - [QMUI-Android](https://github.com/Tencent/QMUI_Android.git)
+  - [XPopup](https://github.com/li-xiaojun/XPopup.git)
 
-#### IOS
-- [RxSwift+MVVM](https://github.com/ReactiveX/RxSwift.git)
-- [Alamofire](https://github.com/Alamofire/Alamofire.git)
-- [HandyJSON](https://github.com/alibaba/HandyJSON.git)
-- [Kingfisher](https://github.com/onevcat/Kingfisher.git)
-- [RealmSwift](https://github.com/realm/realm-cocoa.git)
-- [BMPlayer](https://github.com/BrikerMan/BMPlayer.git)
-- [MJRefresh](https://github.com/CoderMJLee/MJRefresh.git)
-- [QMUI-IOS](https://github.com/Tencent/QMUI_iOS.git)
-- [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView.git)
+- #### IOS
+  - [RxSwift+MVVM](https://github.com/ReactiveX/RxSwift.git)
+  - [Alamofire](https://github.com/Alamofire/Alamofire.git)
+  - [HandyJSON](https://github.com/alibaba/HandyJSON.git)
+  - [Kingfisher](https://github.com/onevcat/Kingfisher.git)
+  - [RealmSwift](https://github.com/realm/realm-cocoa.git)
+  - [BMPlayer](https://github.com/BrikerMan/BMPlayer.git)
+  - [MJRefresh](https://github.com/CoderMJLee/MJRefresh.git)
+  - [QMUI-IOS](https://github.com/Tencent/QMUI_iOS.git)
+  - [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView.git)
+
+- ### Flutter
+  - [dio](https://pub.flutter-io.cn/packages/dio)
+  - [cached_network_image](https://pub.flutter-io.cn/packages/cached_network_image)
+  - [shared_preferences](https://pub.flutter-io.cn/packages/shared_preferences)
+  - [video_player](https://pub.flutter-io.cn/packages/video_player)
+  - [pull_to_refresh](https://pub.flutter-io.cn/packages/pull_to_refresh)
+  - [webview_flutter](https://pub.flutter-io.cn/packages/webview_flutter)
+  - [flutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)
 
 ## 教育经历
 
