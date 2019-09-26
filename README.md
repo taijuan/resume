@@ -116,7 +116,8 @@
   - [pull_to_refresh](https://pub.flutter-io.cn/packages/pull_to_refresh)
   - [webview_flutter](https://pub.flutter-io.cn/packages/webview_flutter)
   - [flutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)
-
+  - [fluttertoast](https://pub.flutter-io.cn/packages/fluttertoast)
+  
 ## 教育经历
 
 - *2007 - 2011* [西华大学](http://www.xhu.edu.cn/) 计算机科学与技术 本科
