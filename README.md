@@ -16,8 +16,7 @@
 
 * 移动端研发，熟悉Android，IOS双端原生开发，熟悉Flutter多平台开发、自学微信小程序；
 * 熟悉Java、Kotlin、Flutter、Dart、Swift编程语言；
-* 拥抱开源、分享开源，Git宅；
-* 爱学习、爱研究，Flutter学习项目：[ImagePicker-Flutter](https://github.com/taijuan/image_picker_flutter.git)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)
+* 拥抱开源、爱学习、爱研究，目前开源：[Flutter相册>image_picker_flutter](https://github.com/taijuan/image_picker_flutter.git)
 
 ## 工作经验
 
