@@ -6,7 +6,7 @@
 - 联系电话: 15528363539
 - 电子邮箱: [673636090@qq.com](mailto:673636090@qq.com)、[lovexx1011@sina.com](mailto:lovexx1011@sina.com)
 - GitHub: [https://github.com/taijuan](https://github.com/taijuan)
-- 期望职位：Android高级工程师、IOS工程师(Swift)
+- 期望职位：Android高级工程师
 - 期望薪资：20K(RMB)税前
 - 期望城市：成都
 
@@ -14,9 +14,10 @@
 
 ## 自我描述
 
-* 移动端研发，熟悉Android，IOS双端原生开发，熟悉Flutter多平台开发、自学微信小程序；
-* 熟悉Java、Kotlin、Flutter、Dart、Swift编程语言；
-* 拥抱开源、爱学习、爱研究，目前开源：[Flutter相册>image_picker_flutter](https://github.com/taijuan/image_picker_flutter.git)
+- 移动Android高级工程，8年工作经验，能够熟练使用Java、Kotlin编程语言完成框架搭建、UI定制、逻辑整理、应用发布、应用维护，目前独立负责公司Android项目；
+- 爱学习、爱研究，自学能力突出，思维转变突出：
+  - 自学Flutter编程：项目[HouseApp](https://fir.im/androidHouse)，开源插件 [image_picker_flutter](https://github.com/taijuan/image_picker_flutter.git)；
+  - 自学Swift IOS编程：自学项目：https://github.com/taijuan/daily
 
 ## 工作经验
 
@@ -24,12 +25,13 @@
 
 *2017/12 - 至今*
 
-在「驻深圳研发部」下主要负责 移动端项目开发与维护，主要内容如下：
+在「驻深圳研发部」下主要负责 移动端项目开发，维护，新项目技术讨论、逻辑确定，主要内容如下：
 
 * 负责[VDOEnglish(android)](https://fir.im/VDOGame)研发，主要功能：登录注册、国内外社会分享与登录、英语单词小游戏、视频播放、字幕翻译、练习测试、视频下载管理、无障碍功能开发；
 * 负责[HKNews(android和ios)](https://fir.im/ChinaDailyNews)开发，主要功能：新闻栏目管理、新闻查看、媒体视频播放、EPaper报刊预览、国内外社会化分享、GoogleCast、无障碍功能开发；
+* 负责[HouseApp](https://fir.im/androidHouse)开发，使用Flutter语言开发，主要功能：中介、房东、房客、维修商关于房屋维修流程审批与交流；
 * 负责android项目基础框架、提升开发效率，主要工具：ShareSDK、[PermissionSDK](https://github.com/taijuan/AndroidKit)、[Retrofit-LiveData封装](https://github.com/taijuan/AndroidKit)、标题栏适配(一体化、刘海等)、[LogUtils](https://github.com/taijuan/AndroidKit)、[UUID](https://github.com/taijuan/AndroidKit)、极光推送封装、BaseActivity、BaseFragment、BaseApplication、ActivityManager、LazyFragment、Glide封装；
-* 开源多个平台HKNews，[HKNewsAndroidApp](https://github.com/taijuan/HKNewsAndroidApp.git)、[SwiftHKNews](https://github.com/taijuan/SwiftHKNews.git)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)、[HKNewsWXApp](https://github.com/taijuan/HKNewsWXApp.gitt)
+* 负责新技术调研：[HKNewsAndroidApp](https://github.com/taijuan/HKNewsAndroidApp.git)、[SwiftHKNews](https://github.com/taijuan/SwiftHKNews.git)、[HKNews+](https://github.com/taijuan/daily)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)、[HKNewsWXApp](https://github.com/taijuan/HKNewsWXApp.gitt)
 * 负责公司阿里云相关业务研究，比如：OSS、HttpDns、推流SDK、播放器、短视频等
 
 
