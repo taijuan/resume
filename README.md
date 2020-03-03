@@ -14,10 +14,16 @@
 
 ## 自我描述
 
-- 移动Android高级工程，8年工作经验，能够熟练使用Java、Kotlin编程语言完成框架搭建、UI定制、逻辑整理、应用发布、应用维护，目前独立负责公司Android项目；
+- 移动Android高级工程，8年工作经验、能够独立完成Android搭建、开发；
+- 熟悉Java、Kotlin语言，熟悉Android SDK、AndroidX，Jetpack（Lifecyle、LiveData、ViewModel）；
+- 熟悉MVVM、MVP开发模式，熟悉模块化、组件化；
+- 熟悉OKHttp、Retrofit、Room、Litepal、Glide、Gson等第三方工具；
+- 熟悉Android性能优化方法、了解leakcanary、DoraemonKit、Profiler；
+- 熟悉UMeng、Jpush等推送、统计服务，熟悉微信、支付宝等分享、支付接入；
 - 爱学习、爱研究，自学能力突出，思维转变突出：
   - 自学Flutter编程：项目[HouseApp](https://fir.im/androidHouse)，开源插件 [image_picker_flutter](https://github.com/taijuan/image_picker_flutter.git)；
-  - 自学Swift IOS编程：自学项目：https://github.com/taijuan/daily
+  - 自学Swift IOS编程：https://github.com/taijuan/daily
+  - 自学微信小程序：https://github.com/taijuan/HKNewsWXApp
 
 ## 工作经验
 
@@ -84,7 +90,9 @@
 - android学习
 
 ### 常用开源框架
+
 - #### Android
+
   - [Lifecycles+LiveData+ViewModel+MVVM](https://developer.android.google.cn/jetpack)
   - [Okhttp](https://github.com/square/okhttp.git)
   - [Retrofit](https://github.com/square/retrofit)
@@ -99,6 +107,7 @@
   - [XPopup](https://github.com/li-xiaojun/XPopup.git)
 
 - #### IOS
+
   - [RxSwift+MVVM](https://github.com/ReactiveX/RxSwift.git)
   - [Alamofire](https://github.com/Alamofire/Alamofire.git)
   - [HandyJSON](https://github.com/alibaba/HandyJSON.git)
@@ -110,6 +119,7 @@
   - [JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView.git)
 
 - ### Flutter
+
   - [dio](https://pub.flutter-io.cn/packages/dio)
   - [cached_network_image](https://pub.flutter-io.cn/packages/cached_network_image)
   - [shared_preferences](https://pub.flutter-io.cn/packages/shared_preferences)
@@ -118,7 +128,7 @@
   - [webview_flutter](https://pub.flutter-io.cn/packages/webview_flutter)
   - [flutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)
   - [fluttertoast](https://pub.flutter-io.cn/packages/fluttertoast)
-  
+
 ## 教育经历
 
 - *2007 - 2011* [西华大学](http://www.xhu.edu.cn/) 计算机科学与技术 本科
@@ -127,4 +137,3 @@
 ## 兴趣爱好
 
 爱折腾，喜欢探索和尝试新技术，业余爱好：爬山、游泳🏊。
-
