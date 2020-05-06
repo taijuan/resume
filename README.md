@@ -22,7 +22,7 @@
 - 熟悉UMeng、Jpush等推送、统计服务，熟悉微信、支付宝等分享、支付接入；
 - 爱学习、爱研究，自学能力突出，思维转变突出：
   - 自学Flutter编程：项目[HouseApp](https://fir.im/androidHouse)，开源插件 [image_picker_flutter](https://github.com/taijuan/image_picker_flutter.git)；
-  - 自学Swift IOS编程：https://github.com/taijuan/daily
+  - 自学Swift iOS编程：https://github.com/taijuan/daily
   - 自学微信小程序：https://github.com/taijuan/HKNewsWXApp
 
 ## 工作经验
@@ -34,7 +34,7 @@
 在「驻深圳研发部」下主要负责 移动端项目开发，维护，新项目技术讨论、逻辑确定，主要内容如下：
 
 * 负责[VDOEnglish(android)](https://fir.im/VDOGame)研发，主要功能：登录注册、国内外社会分享与登录、英语单词小游戏、视频播放、字幕翻译、练习测试、视频下载管理、无障碍功能开发；
-* 负责[HKNews(android和ios)](https://fir.im/ChinaDailyNews)开发，主要功能：新闻栏目管理、新闻查看、媒体视频播放、EPaper报刊预览、国内外社会化分享、GoogleCast、无障碍功能开发；
+* 负责[HKNews(android和iOS)](https://fir.im/ChinaDailyNews)开发，主要功能：新闻栏目管理、新闻查看、媒体视频播放、EPaper报刊预览、国内外社会化分享、GoogleCast、无障碍功能开发；
 * 负责[HouseApp](https://fir.im/androidHouse)开发，使用Flutter语言开发，主要功能：中介、房东、房客、维修商关于房屋维修流程审批与交流；
 * 负责android项目基础框架、提升开发效率，主要工具：ShareSDK、[PermissionSDK](https://github.com/taijuan/AndroidKit)、[Retrofit-LiveData封装](https://github.com/taijuan/AndroidKit)、标题栏适配(一体化、刘海等)、[LogUtils](https://github.com/taijuan/AndroidKit)、[UUID](https://github.com/taijuan/AndroidKit)、极光推送封装、BaseActivity、BaseFragment、BaseApplication、ActivityManager、LazyFragment、Glide封装；
 * 负责新技术调研：[HKNewsAndroidApp](https://github.com/taijuan/HKNewsAndroidApp.git)、[SwiftHKNews](https://github.com/taijuan/SwiftHKNews.git)、[HKNews+](https://github.com/taijuan/daily)、[HKNewsFlutterApp](https://github.com/taijuan/HKNewsFlutterApp.git)、[HKNewsWXApp](https://github.com/taijuan/HKNewsWXApp.gitt)
@@ -106,7 +106,7 @@
   - [QMUI-Android](https://github.com/Tencent/QMUI_Android.git)
   - [XPopup](https://github.com/li-xiaojun/XPopup.git)
 
-- #### IOS
+- #### iOS
 
   - [RxSwift+MVVM](https://github.com/ReactiveX/RxSwift.git)
   - [Alamofire](https://github.com/Alamofire/Alamofire.git)
